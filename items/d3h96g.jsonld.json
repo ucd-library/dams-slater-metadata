@@ -1,0 +1,48 @@
+{
+  "@context": {
+    "ldp": "http://www.w3.org/ns/ldp#",
+    "schema": "http://schema.org/",
+    "fedora": "http://fedora.info/definitions/v4/repository#",
+    "webac": "http://fedora.info/definitions/v4/webac#",
+    "acl": "http://www.w3.org/ns/auth/acl#",
+    "ucdlib": "http://digital.ucdavis.edu/schema#",
+    "ebucore": "http://www.ebu.ch/metadata/ontologies/ebucore/ebucore#"
+  },
+  "@id": "",
+  "@type": [
+    "schema:Photograph",
+    "schema:CreativeWork",
+    "http://fedora.info/definitions/v4/repository#ArchivalGroup"
+  ],
+  "schema:about": [
+    {
+      "@id": "http://id.worldcat.org/fast/1101113"
+    },
+    {
+      "@id": "http://id.worldcat.org/fast/722879"
+    }
+  ],
+  "schema:datePublished": "1912-01-01",
+  "schema:description": "\"Top row: last man starting from left - first man starting from right: Babe Slater.\"",
+  "schema:identifier": [
+    "ark:/87293/d3h96g",
+    "D-394, Box:2, Folder:30"
+  ],
+  "schema:isPartOf": {
+    "@id": "https://oac.cdlib.org/findaid/ark:/13030/kt5p3020w9/"
+  },
+  "schema:keywords": [
+    "Slater, Colby E.",
+    "Rugby football",
+    "Berkeley High School (Berkeley, Calif.) -- History"
+  ],
+  "schema:license": {
+    "@id": "http://rightsstatements.org/vocab/InC-NC/1.0/"
+  },
+  "schema:material": "1 photographic print black and white 13 x 18 cm",
+  "schema:name": "Berkeley High School \"Ruggers\" Team Photograph",
+  "schema:publisher": "UC Davis Library, Archives and Special Collections",
+  "schema:sdPublisher": {
+    "@id": "http://id.loc.gov/authorities/names/no2008108707"
+  }
+}

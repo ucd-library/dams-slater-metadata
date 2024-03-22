@@ -1,0 +1,51 @@
+{
+  "@context": {
+    "ldp": "http://www.w3.org/ns/ldp#",
+    "schema": "http://schema.org/",
+    "fedora": "http://fedora.info/definitions/v4/repository#",
+    "webac": "http://fedora.info/definitions/v4/webac#",
+    "acl": "http://www.w3.org/ns/auth/acl#",
+    "ucdlib": "http://digital.ucdavis.edu/schema#",
+    "ebucore": "http://www.ebu.ch/metadata/ontologies/ebucore/ebucore#"
+  },
+  "@id": "",
+  "@type": [
+    "schema:NewsArticle",
+    "schema:CreativeWork",
+    "http://fedora.info/definitions/v4/repository#ArchivalGroup"
+  ],
+  "schema:about": [
+    {
+      "@id": "http://id.worldcat.org/fast/814030"
+    },
+    {
+      "@id": "http://id.worldcat.org/fast/1789807"
+    },
+    {
+      "@id": "http://id.worldcat.org/fast/549782"
+    }
+  ],
+  "schema:datePublished": "1917-05-08",
+  "schema:description": "Reprint of 1917 article.",
+  "schema:identifier": [
+    "ark:/87293/d3q682",
+    "D-394, Box:6, Folder:1.1"
+  ],
+  "schema:isPartOf": {
+    "@id": "https://oac.cdlib.org/findaid/ark:/13030/kt5p3020w9/"
+  },
+  "schema:keywords": [
+    "University of California, Davis -- History",
+    "Festivals -- California -- Davis",
+    "Picnic Day",
+    "Slater, Colby E. -- Archives"
+  ],
+  "schema:license": {
+    "@id": "http://rightsstatements.org/vocab/NoC-US/1.0/"
+  },
+  "schema:name": "Clipping, C.E. (Babe) Slater was general chairman for the highly successful Picnic Day held at the University Farm at Davis",
+  "schema:publisher": "UC Davis Library, Archives and Special Collections",
+  "schema:sdPublisher": {
+    "@id": "http://id.loc.gov/authorities/names/no2008108707"
+  }
+}

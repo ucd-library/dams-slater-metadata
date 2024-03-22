@@ -1,0 +1,50 @@
+{
+  "@context": {
+    "ldp": "http://www.w3.org/ns/ldp#",
+    "schema": "http://schema.org/",
+    "fedora": "http://fedora.info/definitions/v4/repository#",
+    "webac": "http://fedora.info/definitions/v4/webac#",
+    "acl": "http://www.w3.org/ns/auth/acl#",
+    "ucdlib": "http://digital.ucdavis.edu/schema#",
+    "ebucore": "http://www.ebu.ch/metadata/ontologies/ebucore/ebucore#"
+  },
+  "@id": "",
+  "@type": [
+    "schema:CreativeWork",
+    "schema:Periodical",
+    "http://fedora.info/definitions/v4/repository#ArchivalGroup"
+  ],
+  "schema:about": [
+    {
+      "@id": "http://id.worldcat.org/fast/814030"
+    },
+    {
+      "@id": "http://id.worldcat.org/fast/549782"
+    },
+    {
+      "@id": "http://id.worldcat.org/fast/1789807"
+    }
+  ],
+  "schema:identifier": [
+    "D-394, Box:6, Folder:1.15",
+    "ark:/87293/d32q22"
+  ],
+  "schema:isPartOf": {
+    "@id": "https://oac.cdlib.org/findaid/ark:/13030/kt5p3020w9/"
+  },
+  "schema:keywords": [
+    "Slater, Colby E. -- Archives",
+    "Picnic Day",
+    "University Farm Agricola",
+    "University of California, Davis -- History"
+  ],
+  "schema:license": {
+    "@id": "http://rightsstatements.org/vocab/UND/1.0/"
+  },
+  "schema:name": "University Farm Agricola, Agricultural Section, Ninth Annual Picnic Day edition",
+  "schema:publisher": "UC Davis Library, Archives and Special Collections",
+  "schema:sdPublisher": {
+    "@id": "http://id.loc.gov/authorities/names/no2008108707"
+  },
+  "schema:temporal": "Undated"
+}

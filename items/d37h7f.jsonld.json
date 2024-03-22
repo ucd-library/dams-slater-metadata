@@ -1,0 +1,50 @@
+{
+  "@context": {
+    "ldp": "http://www.w3.org/ns/ldp#",
+    "schema": "http://schema.org/",
+    "fedora": "http://fedora.info/definitions/v4/repository#",
+    "webac": "http://fedora.info/definitions/v4/webac#",
+    "acl": "http://www.w3.org/ns/auth/acl#",
+    "ucdlib": "http://digital.ucdavis.edu/schema#",
+    "ebucore": "http://www.ebu.ch/metadata/ontologies/ebucore/ebucore#"
+  },
+  "@id": "",
+  "@type": [
+    "schema:Photograph",
+    "schema:CreativeWork",
+    "http://fedora.info/definitions/v4/repository#ArchivalGroup"
+  ],
+  "schema:about": [
+    {
+      "@id": "http://id.worldcat.org/fast/1101113"
+    },
+    {
+      "@id": "http://id.worldcat.org/fast/1204155"
+    },
+    {
+      "@id": "http://id.worldcat.org/fast/1101138"
+    }
+  ],
+  "schema:datePublished": "1920",
+  "schema:description": "L.R. 1. Jim Wiley 2. Carroll 3. G. Hunter 4. ? 5. Doe 6. Slater 7. Davis 8. Winston 9. J. Muldoon 10. Fitzpatrick 11. Wallace 12. Tilden 13. Bill Muldoon 14. Wrenn 15. Meehan.",
+  "schema:identifier": [
+    "D-394, Box:7, Folder:3",
+    "ark:/87293/d37h7f"
+  ],
+  "schema:isPartOf": {
+    "@id": "https://oac.cdlib.org/findaid/ark:/13030/kt5p3020w9/"
+  },
+  "schema:keywords": [
+    "Rugby football teams -- United States",
+    "Rugby football"
+  ],
+  "schema:license": {
+    "@id": "http://rightsstatements.org/vocab/InC-NC/1.0/"
+  },
+  "schema:material": "1 photographic print black and white 36 x 23 cm",
+  "schema:name": "Photograph of rugby team including Slater (possibly 1920 Olympic Team)",
+  "schema:publisher": "UC Davis Library, Archives and Special Collections",
+  "schema:sdPublisher": {
+    "@id": "http://id.loc.gov/authorities/names/no2008108707"
+  }
+}

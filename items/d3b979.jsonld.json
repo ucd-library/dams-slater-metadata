@@ -1,0 +1,52 @@
+{
+  "@context": {
+    "ldp": "http://www.w3.org/ns/ldp#",
+    "schema": "http://schema.org/",
+    "fedora": "http://fedora.info/definitions/v4/repository#",
+    "webac": "http://fedora.info/definitions/v4/webac#",
+    "acl": "http://www.w3.org/ns/auth/acl#",
+    "ucdlib": "http://digital.ucdavis.edu/schema#",
+    "ebucore": "http://www.ebu.ch/metadata/ontologies/ebucore/ebucore#"
+  },
+  "@id": "",
+  "@type": [
+    "schema:CreativeWork",
+    "schema:Book",
+    "http://fedora.info/definitions/v4/repository#ArchivalGroup"
+  ],
+  "schema:about": [
+    {
+      "@id": "http://id.worldcat.org/fast/1423794"
+    },
+    {
+      "@id": "http://id.worldcat.org/fast/1424071"
+    },
+    {
+      "@id": "http://id.worldcat.org/fast/1180746"
+    }
+  ],
+  "schema:creator": "Slater, Colby E. \"Babe\"",
+  "schema:datePublished": "1918-06/1919-05",
+  "schema:description": "In this diary, Slater recorded events of his service in the United States Army on the Western Front during the First World War.",
+  "schema:identifier": [
+    "D-394, Box:1, Folder:1",
+    "ark:/87293/d3b979"
+  ],
+  "schema:isPartOf": {
+    "@id": "https://oac.cdlib.org/findaid/ark:/13030/kt5p3020w9/"
+  },
+  "schema:keywords": [
+    "Diaries",
+    "World War, 1914-1918 -- Personal narratives, American",
+    "World War, 1914-1918"
+  ],
+  "schema:license": {
+    "@id": "http://rightsstatements.org/vocab/UND/1.0/"
+  },
+  "schema:material": "1 volume",
+  "schema:name": "World War I Diary",
+  "schema:publisher": "UC Davis Library, Archives and Special Collections",
+  "schema:sdPublisher": {
+    "@id": "http://id.loc.gov/authorities/names/no2008108707"
+  }
+}

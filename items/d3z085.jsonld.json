@@ -1,0 +1,60 @@
+{
+  "@context": {
+    "ldp": "http://www.w3.org/ns/ldp#",
+    "schema": "http://schema.org/",
+    "fedora": "http://fedora.info/definitions/v4/repository#",
+    "webac": "http://fedora.info/definitions/v4/webac#",
+    "acl": "http://www.w3.org/ns/auth/acl#",
+    "ucdlib": "http://digital.ucdavis.edu/schema#",
+    "ebucore": "http://www.ebu.ch/metadata/ontologies/ebucore/ebucore#"
+  },
+  "@id": "",
+  "@type": [
+    "schema:CreativeWork",
+    "schema:NewsArticle",
+    "http://fedora.info/definitions/v4/repository#ArchivalGroup"
+  ],
+  "schema:about": [
+    {
+      "@id": "http://id.worldcat.org/fast/1037835"
+    },
+    {
+      "@id": "http://id.worldcat.org/fast/1408249"
+    },
+    {
+      "@id": "http://id.worldcat.org/fast/1204472"
+    },
+    {
+      "@id": "http://id.worldcat.org/fast/1204155"
+    },
+    {
+      "@id": "http://id.worldcat.org/fast/1764756"
+    },
+    {
+      "@id": "http://id.worldcat.org/fast/1101138"
+    }
+  ],
+  "schema:datePublished": "1949-02-23",
+  "schema:description": "Article inscribed to Babe Slater",
+  "schema:identifier": [
+    "D-394, Box:6, Folder:7.15",
+    "ark:/87293/d3z085"
+  ],
+  "schema:isPartOf": {
+    "@id": "https://oac.cdlib.org/findaid/ark:/13030/kt5p3020w9/"
+  },
+  "schema:keywords": [
+    "Rugby football teams -- United States",
+    "Slater, Colby E. -- Archive",
+    "Olympic Games (7th : 1920 : Antwerp, Belgium)",
+    "Olympic athletes -- United States"
+  ],
+  "schema:license": {
+    "@id": "http://rightsstatements.org/vocab/UND/1.0/"
+  },
+  "schema:name": "Clipping, How many of these",
+  "schema:publisher": "UC Davis Library, Archives and Special Collections",
+  "schema:sdPublisher": {
+    "@id": "http://id.loc.gov/authorities/names/no2008108707"
+  }
+}

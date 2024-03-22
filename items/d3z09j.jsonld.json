@@ -1,0 +1,46 @@
+{
+  "@context": {
+    "ldp": "http://www.w3.org/ns/ldp#",
+    "schema": "http://schema.org/",
+    "fedora": "http://fedora.info/definitions/v4/repository#",
+    "webac": "http://fedora.info/definitions/v4/webac#",
+    "acl": "http://www.w3.org/ns/auth/acl#",
+    "ucdlib": "http://digital.ucdavis.edu/schema#",
+    "ebucore": "http://www.ebu.ch/metadata/ontologies/ebucore/ebucore#"
+  },
+  "@id": "",
+  "@type": [
+    "schema:CreativeWork",
+    "schema:NewsArticle",
+    "http://fedora.info/definitions/v4/repository#ArchivalGroup"
+  ],
+  "schema:about": [
+    {
+      "@id": "http://id.worldcat.org/fast/921321"
+    },
+    {
+      "@id": "http://id.worldcat.org/fast/1214190"
+    }
+  ],
+  "schema:datePublished": "1976-01-22",
+  "schema:identifier": [
+    "ark:/87293/d3z09j",
+    "D-394, Box:6, Folder:11.35"
+  ],
+  "schema:isPartOf": {
+    "@id": "https://oac.cdlib.org/findaid/ark:/13030/kt5p3020w9/"
+  },
+  "schema:keywords": [
+    "Slater, Colby E. -- Archive",
+    "Farmers -- California -- Yolo County.",
+    "Yolo County Farm Bureau (Yolo County, Calif.)"
+  ],
+  "schema:license": {
+    "@id": "http://rightsstatements.org/vocab/UND/1.0/"
+  },
+  "schema:name": "Clipping, 25 years ago--1951: C.E. (Babe) Slater of Clarksburg was elected president of Yolo County Farm Bureau",
+  "schema:publisher": "UC Davis Library, Archives and Special Collections",
+  "schema:sdPublisher": {
+    "@id": "http://id.loc.gov/authorities/names/no2008108707"
+  }
+}

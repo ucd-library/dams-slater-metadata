@@ -1,0 +1,47 @@
+{
+  "@context": {
+    "ldp": "http://www.w3.org/ns/ldp#",
+    "schema": "http://schema.org/",
+    "fedora": "http://fedora.info/definitions/v4/repository#",
+    "webac": "http://fedora.info/definitions/v4/webac#",
+    "acl": "http://www.w3.org/ns/auth/acl#",
+    "ucdlib": "http://digital.ucdavis.edu/schema#",
+    "ebucore": "http://www.ebu.ch/metadata/ontologies/ebucore/ebucore#"
+  },
+  "@id": "",
+  "@type": [
+    "schema:Photograph",
+    "schema:CreativeWork",
+    "http://fedora.info/definitions/v4/repository#ArchivalGroup"
+  ],
+  "schema:about": [
+    {
+      "@id": "http://id.worldcat.org/fast/1681368"
+    },
+    {
+      "@id": "http://id.worldcat.org/fast/549782"
+    }
+  ],
+  "schema:datePublished": "1965-10-23",
+  "schema:description": "\"Herb Barker - left. Carol Hahn, Acting Vice President Student Body. Jim Tavernetti. Babe Slater Perpetual Athletic Trophy. Aggie-Chico State game.\"",
+  "schema:identifier": [
+    "D-394, Box:2, Folder:55A",
+    "ark:/87293/d3xm4j"
+  ],
+  "schema:isPartOf": {
+    "@id": "https://oac.cdlib.org/findaid/ark:/13030/kt5p3020w9/"
+  },
+  "schema:keywords": [
+    "University of California, Davis -- Sports",
+    "UC Davis Athletics -- History"
+  ],
+  "schema:license": {
+    "@id": "http://rightsstatements.org/vocab/InC-NC/1.0/"
+  },
+  "schema:material": "1 photographic print black and white 13 x 14 cm",
+  "schema:name": "(Babe) Slater Perpetual Athletic Trophy",
+  "schema:publisher": "UC Davis Library, Archives and Special Collections",
+  "schema:sdPublisher": {
+    "@id": "http://id.loc.gov/authorities/names/no2008108707"
+  }
+}

@@ -1,0 +1,64 @@
+{
+  "@context": {
+    "ldp": "http://www.w3.org/ns/ldp#",
+    "schema": "http://schema.org/",
+    "fedora": "http://fedora.info/definitions/v4/repository#",
+    "webac": "http://fedora.info/definitions/v4/webac#",
+    "acl": "http://www.w3.org/ns/auth/acl#",
+    "ucdlib": "http://digital.ucdavis.edu/schema#",
+    "ebucore": "http://www.ebu.ch/metadata/ontologies/ebucore/ebucore#"
+  },
+  "@id": "",
+  "@type": [
+    "schema:NewsArticle",
+    "schema:CreativeWork",
+    "http://fedora.info/definitions/v4/repository#ArchivalGroup"
+  ],
+  "schema:about": [
+    {
+      "@id": "http://id.worldcat.org/fast/1037835"
+    },
+    {
+      "@id": "http://id.worldcat.org/fast/1408249"
+    },
+    {
+      "@id": "http://id.worldcat.org/fast/1204155"
+    },
+    {
+      "@id": "http://id.worldcat.org/fast/1764756"
+    },
+    {
+      "@id": "http://id.worldcat.org/fast/1101113"
+    },
+    {
+      "@id": "http://id.worldcat.org/fast/1205283"
+    },
+    {
+      "@id": "http://id.worldcat.org/fast/1101138"
+    }
+  ],
+  "schema:datePublished": "1924",
+  "schema:identifier": [
+    "D-394, Box:6, Folder:8.14",
+    "ark:/87293/d3sd60"
+  ],
+  "schema:isPartOf": {
+    "@id": "https://oac.cdlib.org/findaid/ark:/13030/kt5p3020w9/"
+  },
+  "schema:keywords": [
+    "Olympic Games (8th : 1924 : Paris, France)",
+    "Olympic athletes -- United States",
+    "Slater, Colby E. -- Archive",
+    "Farish, Linn M. (Linn Markley ), 1901-1944",
+    "Rugby football teams -- United States",
+    "Rugby football"
+  ],
+  "schema:license": {
+    "@id": "http://rightsstatements.org/vocab/NoC-US/1.0/"
+  },
+  "schema:name": "Clipping, Sport writers hail Linn Farish: DeGroot played with U.S. champs",
+  "schema:publisher": "UC Davis Library, Archives and Special Collections",
+  "schema:sdPublisher": {
+    "@id": "http://id.loc.gov/authorities/names/no2008108707"
+  }
+}

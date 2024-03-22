@@ -1,0 +1,60 @@
+{
+  "@context": {
+    "ldp": "http://www.w3.org/ns/ldp#",
+    "schema": "http://schema.org/",
+    "fedora": "http://fedora.info/definitions/v4/repository#",
+    "webac": "http://fedora.info/definitions/v4/webac#",
+    "acl": "http://www.w3.org/ns/auth/acl#",
+    "ucdlib": "http://digital.ucdavis.edu/schema#",
+    "ebucore": "http://www.ebu.ch/metadata/ontologies/ebucore/ebucore#"
+  },
+  "@id": "",
+  "@type": [
+    "schema:CreativeWork",
+    "schema:NewsArticle",
+    "http://fedora.info/definitions/v4/repository#ArchivalGroup"
+  ],
+  "schema:about": [
+    {
+      "@id": "http://id.worldcat.org/fast/1101113"
+    },
+    {
+      "@id": "http://id.worldcat.org/fast/1204155"
+    },
+    {
+      "@id": "http://id.worldcat.org/fast/1408249"
+    },
+    {
+      "@id": "http://id.worldcat.org/fast/1205283"
+    },
+    {
+      "@id": "http://id.worldcat.org/fast/1101138"
+    },
+    {
+      "@id": "http://id.worldcat.org/fast/1037835"
+    }
+  ],
+  "schema:datePublished": "1924-04-22",
+  "schema:description": "Photograph of match. Caption: \"Although Devonport Services suffered defeat in their match with the American Olympic Rugby team at the Rectory yesterday they played a plucky game. A \"Services\" midget tackles an American giant.\"",
+  "schema:identifier": [
+    "ark:/87293/d3jx0q",
+    "D-394, Box:4, Folder:8.1"
+  ],
+  "schema:isPartOf": {
+    "@id": "https://oac.cdlib.org/findaid/ark:/13030/kt5p3020w9/"
+  },
+  "schema:keywords": [
+    "Slater, Colby E.",
+    "Rugby football teams -- United States",
+    "Olympic Games (8th : 1924 : Paris, France)",
+    "Rugby football"
+  ],
+  "schema:license": {
+    "@id": "http://rightsstatements.org/vocab/NoC-US/1.0/"
+  },
+  "schema:name": "Clipping, [N]ews and Mercury. Plenty of pluck",
+  "schema:publisher": "UC Davis Library, Archives and Special Collections",
+  "schema:sdPublisher": {
+    "@id": "http://id.loc.gov/authorities/names/no2008108707"
+  }
+}

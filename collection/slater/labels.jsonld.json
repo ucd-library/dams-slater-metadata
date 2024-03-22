@@ -1,0 +1,360 @@
+[
+  {
+    "@id": "",
+    "@context": {
+      "ucdlib": "http://digital.ucdavis.edu/schema#"
+    },
+    "@type": [
+      "ucdlib:LabelService",
+      "ucdlib:Service"
+    ]
+  },
+  {
+    "@id": "http://id.worldcat.org/fast/1007815",
+    "http://schema.org/name": "Manners and customs"
+  },
+  {
+    "@id": "http://id.worldcat.org/fast/1037835",
+    "http://schema.org/name": "Nineteen twenties"
+  },
+  {
+    "@id": "http://id.worldcat.org/fast/1043530",
+    "http://schema.org/name": "Ocean liners"
+  },
+  {
+    "@id": "http://id.worldcat.org/fast/1089735",
+    "http://schema.org/name": "Ranch life"
+  },
+  {
+    "@id": "http://id.worldcat.org/fast/1089779",
+    "http://schema.org/name": "Ranching"
+  },
+  {
+    "@id": "http://id.worldcat.org/fast/1101113",
+    "http://schema.org/name": "Rugby football"
+  },
+  {
+    "@id": "http://id.worldcat.org/fast/1101138",
+    "http://schema.org/name": "Rugby football teams"
+  },
+  {
+    "@id": "http://id.worldcat.org/fast/1103529",
+    "http://schema.org/name": "Sailing ships"
+  },
+  {
+    "@id": "http://id.worldcat.org/fast/1107817",
+    "http://schema.org/name": "School sports"
+  },
+  {
+    "@id": "http://id.worldcat.org/fast/1115568",
+    "http://schema.org/name": "Sheep ranches"
+  },
+  {
+    "@id": "http://id.worldcat.org/fast/1116652",
+    "http://schema.org/name": "Shipyards"
+  },
+  {
+    "@id": "http://id.worldcat.org/fast/1125233",
+    "http://schema.org/name": "Soldiers"
+  },
+  {
+    "@id": "http://id.worldcat.org/fast/1130432",
+    "http://schema.org/name": "Sports"
+  },
+  {
+    "@id": "http://id.worldcat.org/fast/1135799",
+    "http://schema.org/name": "Student activities"
+  },
+  {
+    "@id": "http://id.worldcat.org/fast/1136041",
+    "http://schema.org/name": "Students"
+  },
+  {
+    "@id": "http://id.worldcat.org/fast/1136127",
+    "http://schema.org/name": "Students--Societies, etc."
+  },
+  {
+    "@id": "http://id.worldcat.org/fast/1155558",
+    "http://schema.org/name": "Travel"
+  },
+  {
+    "@id": "http://id.worldcat.org/fast/1159810",
+    "http://schema.org/name": "Twentieth century"
+  },
+  {
+    "@id": "http://id.worldcat.org/fast/1161636",
+    "http://schema.org/name": "Universities and colleges--Alumni and alumnae"
+  },
+  {
+    "@id": "http://id.worldcat.org/fast/1167302",
+    "http://schema.org/name": "Violence in sports"
+  },
+  {
+    "@id": "http://id.worldcat.org/fast/1180746",
+    "http://schema.org/name": "World War (1914-1918)"
+  },
+  {
+    "@id": "http://id.worldcat.org/fast/1202972",
+    "http://schema.org/name": "Germany--Wiesbaden"
+  },
+  {
+    "@id": "http://id.worldcat.org/fast/1204155",
+    "http://schema.org/name": "United States"
+  },
+  {
+    "@id": "http://id.worldcat.org/fast/1204289",
+    "http://schema.org/name": "France"
+  },
+  {
+    "@id": "http://id.worldcat.org/fast/1204415",
+    "http://schema.org/name": "Belgium--Brussels"
+  },
+  {
+    "@id": "http://id.worldcat.org/fast/1204472",
+    "http://schema.org/name": "Belgium--Antwerp"
+  },
+  {
+    "@id": "http://id.worldcat.org/fast/1204542",
+    "http://schema.org/name": "New Zealand"
+  },
+  {
+    "@id": "http://id.worldcat.org/fast/1204928",
+    "http://schema.org/name": "California"
+  },
+  {
+    "@id": "http://id.worldcat.org/fast/1205283",
+    "http://schema.org/name": "France--Paris"
+  },
+  {
+    "@id": "http://id.worldcat.org/fast/1207623",
+    "http://schema.org/name": "California--Woodland"
+  },
+  {
+    "@id": "http://id.worldcat.org/fast/1207676",
+    "http://schema.org/name": "California--Davis"
+  },
+  {
+    "@id": "http://id.worldcat.org/fast/1211882",
+    "http://schema.org/name": "British Columbia--Vancouver"
+  },
+  {
+    "@id": "http://id.worldcat.org/fast/1214190",
+    "http://schema.org/name": "California--Yolo County"
+  },
+  {
+    "@id": "http://id.worldcat.org/fast/1241013",
+    "http://schema.org/name": "Rhine River"
+  },
+  {
+    "@id": "http://id.worldcat.org/fast/1291534",
+    "http://schema.org/name": "California--Esparto"
+  },
+  {
+    "@id": "http://id.worldcat.org/fast/1330721",
+    "http://schema.org/name": "Switzerland--Bern (Canton)"
+  },
+  {
+    "@id": "http://id.worldcat.org/fast/1408249",
+    "http://schema.org/name": "Olympic Games"
+  },
+  {
+    "@id": "http://id.worldcat.org/fast/1423794",
+    "http://schema.org/name": "Diaries"
+  },
+  {
+    "@id": "http://id.worldcat.org/fast/1423821",
+    "http://schema.org/name": "Obituaries"
+  },
+  {
+    "@id": "http://id.worldcat.org/fast/1423871",
+    "http://schema.org/name": "Guidebooks"
+  },
+  {
+    "@id": "http://id.worldcat.org/fast/1423874",
+    "http://schema.org/name": "Pictorial works"
+  },
+  {
+    "@id": "http://id.worldcat.org/fast/1424071",
+    "http://schema.org/name": "Personal narratives--American"
+  },
+  {
+    "@id": "http://id.worldcat.org/fast/1636880",
+    "http://schema.org/name": "California Alumni Association"
+  },
+  {
+    "@id": "http://id.worldcat.org/fast/1681368",
+    "http://schema.org/name": "UC Davis Athletics"
+  },
+  {
+    "@id": "http://id.worldcat.org/fast/1727734",
+    "http://schema.org/name": "California Aggie Alumni Association"
+  },
+  {
+    "@id": "http://id.worldcat.org/fast/1764756",
+    "http://schema.org/name": "Olympic athletes"
+  },
+  {
+    "@id": "http://id.worldcat.org/fast/1789807",
+    "http://schema.org/name": "Picnic Day"
+  },
+  {
+    "@id": "http://id.worldcat.org/fast/1885677",
+    "http://schema.org/name": "California--Clarksburg"
+  },
+  {
+    "@id": "http://id.worldcat.org/fast/1966960",
+    "http://schema.org/name": "Hyland, Dick Irving, 1906-1976"
+  },
+  {
+    "@id": "http://id.worldcat.org/fast/2003288",
+    "http://schema.org/name": "Correspondence"
+  },
+  {
+    "@id": "http://id.worldcat.org/fast/279872",
+    "http://schema.org/name": "Knight, Goodwin, 1896-1970"
+  },
+  {
+    "@id": "http://id.worldcat.org/fast/28337",
+    "http://schema.org/name": "Burns, Robert, 1759-1796"
+  },
+  {
+    "@id": "http://id.worldcat.org/fast/383391",
+    "http://schema.org/name": "Valentine, Alan Chester, 1901-"
+  },
+  {
+    "@id": "http://id.worldcat.org/fast/519911",
+    "http://schema.org/name": "All Blacks (Rugby team)"
+  },
+  {
+    "@id": "http://id.worldcat.org/fast/531721",
+    "http://schema.org/name": "American Legion"
+  },
+  {
+    "@id": "http://id.worldcat.org/fast/532074",
+    "http://schema.org/name": "University of California, Berkeley"
+  },
+  {
+    "@id": "http://id.worldcat.org/fast/533532",
+    "http://schema.org/name": "United States. Army"
+  },
+  {
+    "@id": "http://id.worldcat.org/fast/543048",
+    "http://schema.org/name": "University of California, Davis. College of Agricultural and Environmental Sciences"
+  },
+  {
+    "@id": "http://id.worldcat.org/fast/548583",
+    "http://schema.org/name": "Kölner Dom"
+  },
+  {
+    "@id": "http://id.worldcat.org/fast/549782",
+    "http://schema.org/name": "University of California, Davis"
+  },
+  {
+    "@id": "http://id.worldcat.org/fast/572475",
+    "http://schema.org/name": "University of California (1868-1952). College of Agriculture"
+  },
+  {
+    "@id": "http://id.worldcat.org/fast/619481",
+    "http://schema.org/name": "University of California, Davis. Associated Students"
+  },
+  {
+    "@id": "http://id.worldcat.org/fast/627781",
+    "http://schema.org/name": "Rotary Club of Sacramento"
+  },
+  {
+    "@id": "http://id.worldcat.org/fast/631067",
+    "http://schema.org/name": "United States Capitol (Washington, D.C.)"
+  },
+  {
+    "@id": "http://id.worldcat.org/fast/631543",
+    "http://schema.org/name": "Château de Versailles (Versailles, France)"
+  },
+  {
+    "@id": "http://id.worldcat.org/fast/722879",
+    "http://schema.org/name": "Berkeley High School (Berkeley, Calif.)"
+  },
+  {
+    "@id": "http://id.worldcat.org/fast/744693",
+    "http://schema.org/name": "California Farm Bureau Federation"
+  },
+  {
+    "@id": "http://id.worldcat.org/fast/800761",
+    "http://schema.org/name": "Agricultural exhibitions"
+  },
+  {
+    "@id": "http://id.worldcat.org/fast/801355",
+    "http://schema.org/name": "Agriculture"
+  },
+  {
+    "@id": "http://id.worldcat.org/fast/814030",
+    "http://schema.org/name": "Archives"
+  },
+  {
+    "@id": "http://id.worldcat.org/fast/823232",
+    "http://schema.org/name": "Automobiles"
+  },
+  {
+    "@id": "http://id.worldcat.org/fast/849460",
+    "http://schema.org/name": "Cattle"
+  },
+  {
+    "@id": "http://id.worldcat.org/fast/867925",
+    "http://schema.org/name": "College sports"
+  },
+  {
+    "@id": "http://id.worldcat.org/fast/888712",
+    "http://schema.org/name": "Death notices"
+  },
+  {
+    "@id": "http://id.worldcat.org/fast/888929",
+    "http://schema.org/name": "Decedents' estates"
+  },
+  {
+    "@id": "http://id.worldcat.org/fast/921003",
+    "http://schema.org/name": "Farm equipment"
+  },
+  {
+    "@id": "http://id.worldcat.org/fast/921321",
+    "http://schema.org/name": "Farmers"
+  },
+  {
+    "@id": "http://id.worldcat.org/fast/923329",
+    "http://schema.org/name": "Festivals"
+  },
+  {
+    "@id": "http://id.worldcat.org/fast/925493",
+    "http://schema.org/name": "Fire prevention--Societies, etc."
+  },
+  {
+    "@id": "http://id.worldcat.org/fast/931362",
+    "http://schema.org/name": "Football"
+  },
+  {
+    "@id": "http://id.worldcat.org/fast/931446",
+    "http://schema.org/name": "Football teams"
+  },
+  {
+    "@id": "http://id.worldcat.org/fast/942975",
+    "http://schema.org/name": "Glaciers"
+  },
+  {
+    "@id": "http://id.worldcat.org/fast/947430",
+    "http://schema.org/name": "Greek letter societies"
+  },
+  {
+    "@id": "http://id.worldcat.org/fast/953227",
+    "http://schema.org/name": "Health resorts"
+  },
+  {
+    "@id": "http://id.worldcat.org/fast/958235",
+    "http://schema.org/name": "History"
+  },
+  {
+    "@id": "http://id.worldcat.org/fast/960603",
+    "http://schema.org/name": "Horses"
+  },
+  {
+    "@id": "http://id.worldcat.org/fast/961689",
+    "http://schema.org/name": "Hot springs"
+  }
+]

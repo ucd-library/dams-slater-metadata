@@ -1,0 +1,47 @@
+{
+  "@context": {
+    "ldp": "http://www.w3.org/ns/ldp#",
+    "schema": "http://schema.org/",
+    "fedora": "http://fedora.info/definitions/v4/repository#",
+    "webac": "http://fedora.info/definitions/v4/webac#",
+    "acl": "http://www.w3.org/ns/auth/acl#",
+    "ucdlib": "http://digital.ucdavis.edu/schema#",
+    "ebucore": "http://www.ebu.ch/metadata/ontologies/ebucore/ebucore#"
+  },
+  "@id": "",
+  "@type": [
+    "schema:CreativeWork",
+    "schema:NewsArticle",
+    "http://fedora.info/definitions/v4/repository#ArchivalGroup"
+  ],
+  "schema:about": [
+    {
+      "@id": "http://id.worldcat.org/fast/1130432"
+    },
+    {
+      "@id": "http://id.worldcat.org/fast/1159810"
+    }
+  ],
+  "schema:datePublished": "1973-05-29",
+  "schema:identifier": [
+    "D-394, Box:6, Folder:12.1",
+    "ark:/87293/d35382"
+  ],
+  "schema:isPartOf": {
+    "@id": "https://oac.cdlib.org/findaid/ark:/13030/kt5p3020w9/"
+  },
+  "schema:keywords": [
+    "Slater, Colby E. -- Archive",
+    "Woodland Athletic Hall of Fame (Woodland, Calif.)",
+    "Farish, Linn M. (Linn Markley ), 1901-1944",
+    "Sports -- History -- 20th century"
+  ],
+  "schema:license": {
+    "@id": "http://rightsstatements.org/vocab/UND/1.0/"
+  },
+  "schema:name": "Clipping, Linn Farish, at best in '24 Olympic finals: scores two tries against French, WWII medal winner",
+  "schema:publisher": "UC Davis Library, Archives and Special Collections",
+  "schema:sdPublisher": {
+    "@id": "http://id.loc.gov/authorities/names/no2008108707"
+  }
+}

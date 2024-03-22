@@ -1,0 +1,289 @@
+{
+  "@context": {
+    "ldp": "http://www.w3.org/ns/ldp#",
+    "schema": "http://schema.org/",
+    "fedora": "http://fedora.info/definitions/v4/repository#",
+    "webac": "http://fedora.info/definitions/v4/webac#",
+    "acl": "http://www.w3.org/ns/auth/acl#",
+    "ucdlib": "http://digital.ucdavis.edu/schema#",
+    "ebucore": "http://www.ebu.ch/metadata/ontologies/ebucore/ebucore#"
+  },
+  "@id": "",
+  "@type": [
+    "schema:Collection",
+    "http://fedora.info/definitions/v4/repository#ArchivalGroup"
+  ],
+  "ucdlib:hasLabel": {
+    "@id": "@base:/labels"
+  },
+  "schema:about": [
+    {
+      "@id": "http://id.worldcat.org/fast/383391"
+    },
+    {
+      "@id": "http://id.worldcat.org/fast/800761"
+    },
+    {
+      "@id": "http://id.worldcat.org/fast/960603"
+    },
+    {
+      "@id": "http://id.worldcat.org/fast/953227"
+    },
+    {
+      "@id": "http://id.worldcat.org/fast/631543"
+    },
+    {
+      "@id": "http://id.worldcat.org/fast/548583"
+    },
+    {
+      "@id": "http://id.worldcat.org/fast/801355"
+    },
+    {
+      "@id": "http://id.worldcat.org/fast/923329"
+    },
+    {
+      "@id": "http://id.worldcat.org/fast/1291534"
+    },
+    {
+      "@id": "http://id.worldcat.org/fast/1636880"
+    },
+    {
+      "@id": "http://id.worldcat.org/fast/279872"
+    },
+    {
+      "@id": "http://id.worldcat.org/fast/888929"
+    },
+    {
+      "@id": "http://id.worldcat.org/fast/1423871"
+    },
+    {
+      "@id": "http://id.worldcat.org/fast/942975"
+    },
+    {
+      "@id": "http://id.worldcat.org/fast/1885677"
+    },
+    {
+      "@id": "http://id.worldcat.org/fast/1207676"
+    },
+    {
+      "@id": "http://id.worldcat.org/fast/1107817"
+    },
+    {
+      "@id": "http://id.worldcat.org/fast/549782"
+    },
+    {
+      "@id": "http://id.worldcat.org/fast/1966960"
+    },
+    {
+      "@id": "http://id.worldcat.org/fast/533532"
+    },
+    {
+      "@id": "http://id.worldcat.org/fast/619481"
+    },
+    {
+      "@id": "http://id.worldcat.org/fast/958235"
+    },
+    {
+      "@id": "http://id.worldcat.org/fast/921003"
+    },
+    {
+      "@id": "http://id.worldcat.org/fast/1423794"
+    },
+    {
+      "@id": "http://id.worldcat.org/fast/1136127"
+    },
+    {
+      "@id": "http://id.worldcat.org/fast/572475"
+    },
+    {
+      "@id": "http://id.worldcat.org/fast/1204928"
+    },
+    {
+      "@id": "http://id.worldcat.org/fast/531721"
+    },
+    {
+      "@id": "http://id.worldcat.org/fast/1202972"
+    },
+    {
+      "@id": "http://id.worldcat.org/fast/921321"
+    },
+    {
+      "@id": "http://id.worldcat.org/fast/1204155"
+    },
+    {
+      "@id": "http://id.worldcat.org/fast/867925"
+    },
+    {
+      "@id": "http://id.worldcat.org/fast/931446"
+    },
+    {
+      "@id": "http://id.worldcat.org/fast/931362"
+    },
+    {
+      "@id": "http://id.worldcat.org/fast/961689"
+    },
+    {
+      "@id": "http://id.worldcat.org/fast/1130432"
+    },
+    {
+      "@id": "http://id.worldcat.org/fast/1207623"
+    },
+    {
+      "@id": "http://id.worldcat.org/fast/1089779"
+    },
+    {
+      "@id": "http://id.worldcat.org/fast/1089735"
+    },
+    {
+      "@id": "http://id.worldcat.org/fast/1101138"
+    },
+    {
+      "@id": "http://id.worldcat.org/fast/1424071"
+    },
+    {
+      "@id": "http://id.worldcat.org/fast/1214190"
+    },
+    {
+      "@id": "http://id.worldcat.org/fast/1037835"
+    },
+    {
+      "@id": "http://id.worldcat.org/fast/925493"
+    },
+    {
+      "@id": "http://id.worldcat.org/fast/1204542"
+    },
+    {
+      "@id": "http://id.worldcat.org/fast/1204415"
+    },
+    {
+      "@id": "http://id.worldcat.org/fast/1180746"
+    },
+    {
+      "@id": "http://id.worldcat.org/fast/1204472"
+    },
+    {
+      "@id": "http://id.worldcat.org/fast/1204289"
+    },
+    {
+      "@id": "http://id.worldcat.org/fast/1155558"
+    },
+    {
+      "@id": "http://id.worldcat.org/fast/849460"
+    },
+    {
+      "@id": "http://id.worldcat.org/fast/1115568"
+    },
+    {
+      "@id": "http://id.worldcat.org/fast/28337"
+    },
+    {
+      "@id": "http://id.worldcat.org/fast/1789807"
+    },
+    {
+      "@id": "http://id.worldcat.org/fast/1727734"
+    },
+    {
+      "@id": "http://id.worldcat.org/fast/627781"
+    },
+    {
+      "@id": "http://id.worldcat.org/fast/1136041"
+    },
+    {
+      "@id": "http://id.worldcat.org/fast/519911"
+    },
+    {
+      "@id": "http://id.worldcat.org/fast/631067"
+    },
+    {
+      "@id": "http://id.worldcat.org/fast/888712"
+    },
+    {
+      "@id": "http://id.worldcat.org/fast/1101113"
+    },
+    {
+      "@id": "http://id.worldcat.org/fast/744693"
+    },
+    {
+      "@id": "http://id.worldcat.org/fast/947430"
+    },
+    {
+      "@id": "http://id.worldcat.org/fast/543048"
+    },
+    {
+      "@id": "http://id.worldcat.org/fast/1764756"
+    },
+    {
+      "@id": "http://id.worldcat.org/fast/722879"
+    },
+    {
+      "@id": "http://id.worldcat.org/fast/1159810"
+    },
+    {
+      "@id": "http://id.worldcat.org/fast/814030"
+    },
+    {
+      "@id": "http://id.worldcat.org/fast/1135799"
+    },
+    {
+      "@id": "http://id.worldcat.org/fast/1681368"
+    },
+    {
+      "@id": "http://id.worldcat.org/fast/823232"
+    },
+    {
+      "@id": "http://id.worldcat.org/fast/1205283"
+    },
+    {
+      "@id": "http://id.worldcat.org/fast/1408249"
+    },
+    {
+      "@id": "http://id.worldcat.org/fast/1161636"
+    }
+  ],
+  "schema:creator": "Melissa Tyler",
+  "schema:datePublished": {
+    "@type": "http://www.w3.org/2001/XMLSchema#gYear",
+    "@value": "2016"
+  },
+  "schema:description": "Colby E. \"Babe\" Slater (1896-1965) graduated from the University Farm School (now the University of California, Davis) in 1917. He served with the United States Army Medical Corps in France during the First World War. An outstanding athlete, Slater won Olympic gold medals for rugby in 1920 and 1924. Around 1927, he bought land in Clarksburg, California where he farmed for many years. Slater was active in organizations associated with athletics; agriculture; the University of California, Davis; and Yolo County, California. The Colby E. \"Babe\" Slater Collection (1906-2001, bulk 1917-1957) contains correspondence, diaries, publications, ephemera, photographic material, and realia. Most of the collection pertains to Slater and the United States Olympic Rugby Team winning gold medals at the Olympic Games in Antwerp, Belgium (1920) and Paris (1924). The collection also includes material related to the history of the University of California, Davis; the First World War; agriculture; and the history of Yolo County, California. \n\n The collection finding aid is available at [The Online Archive of California] (https://oac.cdlib.org/findaid/ark:/13030/kt5p3020w9/).",
+  "schema:identifier": "D-394",
+  "schema:image": {
+    "@id": "info:fedora/item/ark:/87293/d3sm2j/media/images/d3sm2j-019.jpg"
+  },
+  "schema:keywords": [
+    "Olympic Games (8th : 1924 : Paris, France)",
+    "California Aggie Alumni Association",
+    "Football",
+    "Agriculture -- California -- Yolo County",
+    "World War, 1914-1918",
+    "Ranching -- California -- Yolo County",
+    "University of California, Davis -- Students",
+    "Slater, Colby E.",
+    "Sports -- History -- 20th century",
+    "Olympic Games (7th : 1920 : Antwerp, Belgium)",
+    "Slater, Colby E. -- Archives",
+    "Rugby football",
+    "Yolo County (Calif.) -- History",
+    "University of California, Davis -- History"
+  ],
+  "schema:name": "Slater (Colby E. \"Babe\") Collection.",
+  "schema:publisher": [
+    "UC Davis, Archives and Special Collections",
+    {
+      "@id": "http://id.loc.gov/authorities/names/no2008108707"
+    }
+  ],
+  "schema:sdDatePublished": {
+    "@type": "http://www.w3.org/2001/XMLSchema#gYear",
+    "@value": "2018"
+  },
+  "schema:sdLicense": {
+    "@id": "http://rightsstatements.org/vocab/InC-NC/1.0/"
+  },
+  "schema:sdPublisher": [
+    "UC Davis, Archives and Special Collections",
+    {
+      "@id": "http://id.loc.gov/authorities/names/no2008108707"
+    }
+  ]
+}

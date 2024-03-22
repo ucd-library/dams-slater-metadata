@@ -1,0 +1,53 @@
+{
+  "@context": {
+    "ldp": "http://www.w3.org/ns/ldp#",
+    "schema": "http://schema.org/",
+    "fedora": "http://fedora.info/definitions/v4/repository#",
+    "webac": "http://fedora.info/definitions/v4/webac#",
+    "acl": "http://www.w3.org/ns/auth/acl#",
+    "ucdlib": "http://digital.ucdavis.edu/schema#",
+    "ebucore": "http://www.ebu.ch/metadata/ontologies/ebucore/ebucore#"
+  },
+  "@id": "",
+  "@type": [
+    "schema:CreativeWork",
+    "schema:NewsArticle",
+    "http://fedora.info/definitions/v4/repository#ArchivalGroup"
+  ],
+  "schema:about": [
+    {
+      "@id": "http://id.worldcat.org/fast/931446"
+    },
+    {
+      "@id": "http://id.worldcat.org/fast/531721"
+    },
+    {
+      "@id": "http://id.worldcat.org/fast/931362"
+    },
+    {
+      "@id": "http://id.worldcat.org/fast/1214190"
+    }
+  ],
+  "schema:identifier": [
+    "ark:/87293/d3pt0x",
+    "D-394, Box:6, Folder:10.6"
+  ],
+  "schema:isPartOf": {
+    "@id": "https://oac.cdlib.org/findaid/ark:/13030/kt5p3020w9/"
+  },
+  "schema:keywords": [
+    "Football teams -- California -- Yolo County",
+    "American Legion. Post 77 (Yolo County (Calif.)",
+    "Slater, Colby E. -- Archive",
+    "Football -- California -- Yolo County"
+  ],
+  "schema:license": {
+    "@id": "http://rightsstatements.org/vocab/UND/1.0/"
+  },
+  "schema:name": "Clippings, 5,000 fans watch 6-0 grid battle: Merced Yellowjackets lose out in ex-service men's state championship contest",
+  "schema:publisher": "UC Davis Library, Archives and Special Collections",
+  "schema:sdPublisher": {
+    "@id": "http://id.loc.gov/authorities/names/no2008108707"
+  },
+  "schema:temporal": "Undated"
+}
