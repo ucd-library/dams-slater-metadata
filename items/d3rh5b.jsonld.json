@@ -38,5 +38,8 @@
   "schema:sdPublisher": {
     "@id": "http://id.loc.gov/authorities/names/no2008108707"
   },
-  "schema:temporal": "Undated"
+  "schema:temporal": "Undated",
+  "schema:image": {
+    "@id": "@base:/media/images/d3rh5b-383.jpg"
+  }
 }

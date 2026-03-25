@@ -37,5 +37,8 @@
   "schema:publisher": "UC Davis Library, Archives and Special Collections",
   "schema:sdPublisher": {
     "@id": "http://id.loc.gov/authorities/names/no2008108707"
+  },
+  "schema:image": {
+    "@id": "@base:/media/images/d3fm2f-400.jpg"
   }
 }
